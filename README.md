@@ -1,31 +1,24 @@
-- 👋 Hi, I’m Won Lee
 
-- 👀 Interested in fullstack javascript development & Unity C# game development!
 
-- 🧠 Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
-
-- 🌱 I love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
-
-- 📫 How to reach me: 
-
-![Lakshmanan Meiyappan Banner Image](./banner.png)
+(./banner.png)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
-
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Won Lee! 
+- <i>🧠 Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
+- <i>🌱 I love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
 
 <h2>💻 I'm Currently workng on</h2>
 
 - System Design and Distributed Computing
 - Software Engineering
+- Fullstack JS Development
+- Unity C# Game Development
 
-
+<!-- 
+  
 __Check out my GitHub repository:__
 
 <div>
@@ -54,11 +47,9 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
   </p>
 </div>
+ -->
+<h2> About Me⚡:</h2>
 
-<h2> About Laxmena⚡:</h2>
-
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
- 
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
 - Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
