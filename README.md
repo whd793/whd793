@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
-
+<!-- 
 <h2>👀 Stats</h2>
 
 <div>
@@ -43,7 +43,7 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
   </p>
 </div>
- -->
+ --> -->
 <h2> About Me⚡:</h2>
 
 - Check out my Blog: [https://laxmena.com](https://laxmena.com)
