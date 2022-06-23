@@ -2,9 +2,9 @@
 <h2>👋 Hi there, I'm Won Lee! </h2>
 
 
-- <i>🧠 Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
+- <i>Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
   
-- <i>🌱 I love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
+- <i>Love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
 
 <h2>💻 Currently Workng On</h2>
 
