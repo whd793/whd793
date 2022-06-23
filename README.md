@@ -1,7 +1,6 @@
 
-<h2>Hey! 👋</h2>
+<h2>👋 Hi there, I'm Won Lee! </h2>
 
-I'm Won Lee! 
 
 - <i>🧠 Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
   
