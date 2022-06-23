@@ -6,34 +6,20 @@
   
 - <i>🌱 I love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 Currently Workng On</h2>
 
 - System Design and Distributed Computing
 - Software Engineering
 - Fullstack JS Development
 - Unity C# Game Development
 
-<!-- 
-  
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 
 <div>
 
-<h2> About Me⚡:</h2>
+<h2>⚡ About Me:</h2>
 
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
+- Check out my portfolio: [https://laxmena.com](https://laxmena.com)
 - Know more about me: [About Laxmena](https://laxmena.com/pages/about)
 - Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
 
