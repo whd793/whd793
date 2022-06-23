@@ -8,7 +8,8 @@
 
 <h2>💻 Currently Workng On</h2>
 
-- System Design and Distributed Computing
+- System Design
+- Data Structures and Algorithms
 - Software Engineering
 - Fullstack JS Development
 - Unity C# Game Development
