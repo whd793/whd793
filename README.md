@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
-<!-- 
+
 
 <div>
 
