@@ -7,6 +7,7 @@
 
  
 <h2>💻 Currently Working On</h2>
+ 
  - <i>Data Structures and Algorithms
  - <i>System Design
  - <i>Fullstack JS Development
@@ -35,6 +36,12 @@
  - CI / CD
  - NGINX
   
+ Game Development:
+ - Unity
+ - C#
+ - Google Analytics
+ - Game Analytics
+ 
  Others:
  - Python
  
