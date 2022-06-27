@@ -5,14 +5,13 @@
 - <i>Graduated from Purdue University with BS in Computer Graphics Technology - Web Programming & Design
 - <i>Love to design and build secure, user-friendly, interactive websites and mobile apps using computer graphics programming, geometric modeling, human computer interface theory and design!
 
-<h2>💻 Currently Workng On</h2>
-
-- System Design
-- Data Structures and Algorithms
-- Software Engineering
-- Fullstack JS Development
-- Unity C# Game Development
-
+ 
+<h2>💻 Currently Working On</h2>
+ - <i>Data Structures and Algorithms
+ - <i>System Design
+ - <i>Fullstack JS Development
+ - <i>Unity C# Game Development
+  
   <h2>💻 Proficient in</h2>
  Frontend:
  - JS
@@ -35,6 +34,9 @@
  - Docker
  - CI / CD
  - NGINX
+  
+ Others:
+ - Python
  
 
 <h2>⚡ About Me:</h2>
