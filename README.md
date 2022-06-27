@@ -13,9 +13,29 @@
 - Fullstack JS Development
 - Unity C# Game Development
 
-
-
-<div>
+  <h2>💻 Proficient in</h2>
+ Frontend:
+ - JS
+ - React / React Native / Redux
+ - HTML / CSS / Sass
+ - Bootstrap
+ - Next.js
+ 
+ Backend:
+ - NodeJS
+ - REST API
+ - Express
+ - MongoDB
+ - Graphql
+ - Mysql
+ - SwaggerAPI
+ - Redis
+ 
+ DevOps:
+ - Docker
+ - CI / CD
+ - NGINX
+ 
 
 <h2>⚡ About Me:</h2>
 
