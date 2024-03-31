@@ -11,7 +11,7 @@
  
  - <i>Data Structures and Algorithms
  - <i>System Design
- - <i>Fullstack Development
+ - <i>React, Next.js Development
  - <i>Unity C# Game Development
   
   
