@@ -27,10 +27,6 @@ I'm a **Frontend Developer** with a strong focus on building scalable, high-perf
 - Resume Korean(이력서 한국어): https://whd793.github.io/resume-kor.pdf
 
 ---
+<img src="https://github.com/user-attachments/assets/9a0061d8-b763-4255-93fe-63d22ddad296" width="100%" />
+<img src="https://github.com/user-attachments/assets/0d33336a-aa97-437c-82ff-8235d60200b6" width="100%" />
 
-> "Great things are never done by one person. They're done by a team of people." – Steve Jobs
-
-  <p align="center">
-
-  <img width="100%" alt="Screen Shot 2025-02-04 at 7 52 45 PM" src="https://github.com/user-attachments/assets/bd2a0dbe-2fcd-464e-88e6-3aed3276d7bd" />
-</p>
