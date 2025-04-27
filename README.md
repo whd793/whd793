@@ -19,6 +19,7 @@ I'm a **Frontend Developer** with a strong focus on building scalable, high-perf
 ## 💬 Links
 - Email: whd793@gmail.com
 - Blog: https://wonblog.vercel.app
+- Linkedin: https://linkedin.com/in/whd793
 - GitHub: https://github.com/whd793
 - Portfolio Website: https://whd793.github.io
 - Portfolio PPT Korean: https://whd793.github.io/portfolio-kor.pdf
