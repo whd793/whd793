@@ -27,6 +27,6 @@ I'm a **Frontend Developer** with a strong focus on building scalable, high-perf
 - Resume Korean(이력서 한국어): https://whd793.github.io/resume-kor.pdf
 
 ---
-<img src="https://github.com/user-attachments/assets/9a0061d8-b763-4255-93fe-63d22ddad296" width="100%" />
-<img src="https://github.com/user-attachments/assets/0d33336a-aa97-437c-82ff-8235d60200b6" width="100%" />
+<img src="gif1.gif" width="100%" />
+<img src="gif2.gif" width="100%" />
 
